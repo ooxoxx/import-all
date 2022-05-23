@@ -2,6 +2,10 @@
   "name": "import-all",
 	"publisher": "Lhhhhhhr",
   "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ooxoxx/import-all.git"
+  },
   "displayName": "import all",
   "description": "simple light-weight wrapper for vscode \"add all missing imports\" action.",
   "version": "0.0.2",
